@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "st7modelReader", "st7modelReader\st7modelReader.csproj", "{CBD9AE66-F388-4ACA-8D21-DFA943287B39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{81970E58-67F0-439C-A342-1161D3226866}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CBD9AE66-F388-4ACA-8D21-DFA943287B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBD9AE66-F388-4ACA-8D21-DFA943287B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBD9AE66-F388-4ACA-8D21-DFA943287B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81970E58-67F0-439C-A342-1161D3226866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81970E58-67F0-439C-A342-1161D3226866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81970E58-67F0-439C-A342-1161D3226866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81970E58-67F0-439C-A342-1161D3226866}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
