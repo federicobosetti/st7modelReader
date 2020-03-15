@@ -10,4 +10,16 @@ namespace st7modelReader
     {
       //pollo
     }
+
+
+    class fileLoader {
+        public string filename;
+        public void load() { 
+        
+        
+        }
+
+    }
+
+
 }
