@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace st7modelReader
 {
-    class Class1
-    {
-      //pollo
-    }
-
-
-    class fileLoader {
+   
+    public class fileLoader {
         public string filename;
         public void load() { 
         

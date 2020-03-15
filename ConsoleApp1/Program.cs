@@ -1,7 +1,7 @@
 ﻿using System;
+//using st7modelReader;
 
-
-namespace ConsoleApp1
+namespace st7modelReader
 {
     class Program
     {

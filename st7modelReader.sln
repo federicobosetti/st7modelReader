@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "st7modelReader", "st7modelReader\st7modelReader.csproj", "{CBD9AE66-F388-4ACA-8D21-DFA943287B39}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{81970E58-67F0-439C-A342-1161D3226866}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CBD9AE66-F388-4ACA-8D21-DFA943287B39} = {CBD9AE66-F388-4ACA-8D21-DFA943287B39}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
