@@ -8,5 +8,6 @@ namespace st7modelReader
 {
     class Class1
     {
+      //pollo
     }
 }
