@@ -6,14 +6,7 @@ using System.Threading.Tasks;
 
 namespace st7modelReader
 {
-   
-    public class fileLoader {
-        public string filename;
-        public void load() { 
-        
-        }
-
+    class Class2
+    {
     }
-
-
 }

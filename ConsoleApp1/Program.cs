@@ -1,5 +1,4 @@
 ﻿using System;
-//using st7modelReader;
 
 namespace st7modelReader
 {
@@ -8,12 +7,7 @@ namespace st7modelReader
         static void Main(string[] args)
         {
             fileLoader loader = new fileLoader();
-
-
-
-
-
-
+            loader.load();
 
         }
     }
