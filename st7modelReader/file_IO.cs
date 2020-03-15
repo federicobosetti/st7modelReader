@@ -41,10 +41,10 @@ namespace st7modelReader
                             node.y = Convert.ToDouble(split[4]);
                             node.z = Convert.ToDouble(split[5]);
 
-                            node.x = double.Parse(split[3], CultureInfo.InvariantCulture);
-                            node.y = double.Parse(split[4], CultureInfo.InvariantCulture);
-                            node.z = double.Parse(split[5], CultureInfo.InvariantCulture);
-                            
+                            //node.x = double.Parse(split[3], CultureInfo.InvariantCulture);
+                            //node.y = double.Parse(split[4], CultureInfo.InvariantCulture);
+                            //node.z = double.Parse(split[5], CultureInfo.InvariantCulture);
+
                             model01.addNode(node);
 
                             break;
